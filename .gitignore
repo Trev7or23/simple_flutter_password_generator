@@ -35,7 +35,7 @@ ios/
 macos/
 test/
 windows/
-web/
+/web/
 
 # Symbolication related
 app.*.symbols
