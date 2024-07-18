@@ -1,5 +1,8 @@
 # Simple Flutter Password Generator
-Simple Flutter Password Generator, es una copia educativa de [simple-js-password-generator](https://github.com/AstroDev07/simple-js-password-generator)
+Simple Flutter Password Generator, es una copia educativa de [simple-js-password-generator](https://github.com/AstroDev07/simple-js-password-generator) pero hecha en flutter.
 
 ## ¿Cómo funciona?
-Para ver su funcionamiento, solo debes descargar el código y abrir el `index.html` en tu navegador. Al abrir la consola verás un ejemplo generado por la función. 
+Para acceder a la app, solo debes entrar [en este enlace](https://simple-flutter-password-generator.vercel.app/).
+
+## ¿Por que fue creado?
+Esta app fue creada solo para aprender un poco a crear un projecto en flutter y aprender un poco mas de lo que se 🤓.
